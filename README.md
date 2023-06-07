@@ -48,12 +48,14 @@ Step 3: Input-Output Delecaration.
 Step 4: Use wire to define the functionality of logic circuits.  
 Step 5: End the module.  
 Step 6: Run the program and choose RTL viewer to get RTL realization.
-### PROGRAM 
+### PROGRAM
+```
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 Developed by:Vasanthamukilan.M
 RegisterNumber:212222230167
 */
+```
 ### MULTIPLEXER
 ```
 module mux(i0,i1,i2,i3,s0,s1,y);
