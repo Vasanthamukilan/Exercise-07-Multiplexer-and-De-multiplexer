@@ -87,19 +87,31 @@ endmodule
 ```
 ### RTL LOGIC  
 - MULTIPLEXER:
+- 
 ![multiplexer_logic](https://github.com/Vasanthamukilan/Exercise-07-Multiplexer-and-De-multiplexer/assets/119559694/83c0fc98-bf02-4b90-a81f-6021fea0271f)
+
 - DEMULTIPLEXER:
+- 
 ![demultiplexer_logic](https://github.com/Vasanthamukilan/Exercise-07-Multiplexer-and-De-multiplexer/assets/119559694/d725f1f9-7a8b-4b9d-8c40-8f337b9d76e3)
+
 ### TIMING DIGRAMS  
 - MULTIPLEXER:
       - when I0=1:
+      - 
  ![digital_I0=0](https://github.com/Vasanthamukilan/Exercise-07-Multiplexer-and-De-multiplexer/assets/119559694/b6b0a66b-f24c-42bf-b6f5-4540a659bd4a)
+ 
        - when I1=1:
+
 ![digital_I1=0](https://github.com/Vasanthamukilan/Exercise-07-Multiplexer-and-De-multiplexer/assets/119559694/15c6d302-ff42-43bf-93ec-7b40bec2f5c0)
-       - when I2=1:
+
+- when I2=1:
+
 ![digital_I2=0](https://github.com/Vasanthamukilan/Exercise-07-Multiplexer-and-De-multiplexer/assets/119559694/5f2cf7dd-9e29-4c96-bb0d-48d92a832d20)
-       - when I3=1
+
+- when I3=1
+
 ![digital_I3=0](https://github.com/Vasanthamukilan/Exercise-07-Multiplexer-and-De-multiplexer/assets/119559694/23f9559e-9ae7-45db-9f5b-1ee73b93e636)
+
 - DEMULTIPLEXER
 
 ![digital_demultiplexer](https://github.com/Vasanthamukilan/Exercise-07-Multiplexer-and-De-multiplexer/assets/119559694/4ee63074-fca2-4b0d-b20a-c44c91670023)
